@@ -35,7 +35,7 @@ incremental loading, Delta Lake, and automated orchestration.
 
 ## Dataset
 
-Indian e-commerce sales data with 15,000 orders:
+Indian e-commerce sales data with 1,50,000 orders on daily basis with Incremental loading:
 
 | Column | Description |
 |---|---|
